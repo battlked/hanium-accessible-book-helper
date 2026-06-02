@@ -1,0 +1,19 @@
+{
+  "id": "hanium-accessible-book-helper",
+  "title": "한이음 시각장애인 책구매 도움앱",
+  "period": "2026",
+  "category": "Team Project / Accessibility App",
+  "summary": "시각장애인이 책 정보를 찾고 구매 단계까지 따라갈 수 있도록 돕는 접근성 중심 앱 프로젝트입니다.",
+  "description": "Android 앱 화면과 Spring Boot API를 가정해서 도서 검색, 음성 안내, 즐겨찾기, 구매 단계 안내 흐름을 설계했습니다.",
+  "stack": ["Android", "Kotlin", "Spring Boot", "MySQL", "Accessibility"],
+  "features": [
+    "도서 검색 결과를 큰 버튼과 명확한 문장으로 제공",
+    "구매 단계별 안내 메시지와 음성 안내를 고려",
+    "앱 화면, 백엔드 API, 프로젝트 문서를 GitHub 파일로 분리"
+  ],
+  "githubUrl": "https://github.com/battlked/hanium-accessible-book-helper",
+  "demoUrl": "#",
+  "artifactName": "app-debug.apk",
+  "artifactType": "APK metadata",
+  "artifactUrl": "https://github.com/battlked/hanium-accessible-book-helper/blob/main/release/apk-info.json"
+}

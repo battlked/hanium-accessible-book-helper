@@ -1,0 +1,6 @@
+{
+  "fileName": "app-debug.apk",
+  "status": "Android Studio 또는 Gradle 빌드 후 생성되는 APK를 GitHub Releases에 업로드하는 구조입니다.",
+  "displayInSpringBoot": "Spring Boot 포트폴리오 화면에서는 APK 바이너리 내용이 아니라 파일명, 상태, 다운로드 링크 같은 정보를 보여 줍니다.",
+  "releaseUrl": "https://github.com/battlked/hanium-accessible-book-helper/releases"
+}
